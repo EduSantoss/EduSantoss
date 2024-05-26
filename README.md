@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindos 👋, me chamo Eduardo </h1>
-<h3 align="center">Estou cursando o 5 período em ciências da computação, apaixonado por tecnologia e desenvolvimento de software. Aqui anexarei alguns projetos com ênfase pessoal, de eventos e vídeos, e profissionais feitos como material de estudo e prática.</h3>
+<h3 align="center">Estou cursando o 5 período em ciências da computação, apaixonado por tecnologia e desenvolvimento de software. Aqui anexarei alguns projetos pessoais, advindos de eventos, vídeos e desafios, além de projetos profissionais que contribuiem para meu estudo e prática.</h3>
 
 
 - 🌱 Atualmente estou aprendendo: **C#, .NET, desenvolvimento back-end.**
@@ -8,7 +8,7 @@
 
 - 📫 Email para contato: **edukadudu18@gmail.com**
 
-- ⚡ Curiosidades: **Meus hobbies são jogar e pagar de fisiculturista 😂**
+- ⚡ Curiosidades: **Meus hobbies são jogar e ser fisiculturista 😂**
 
 ## Conecte-se Comigo
 
