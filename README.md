@@ -1,14 +1,15 @@
 <h1 align="center">Bem vindos 👋, me chamo Eduardo </h1>
-<h3 align="center">Estou cursando o 6 período em ciências da computação, apaixonado por tecnologia e desenvolvimento de software. Aqui anexarei alguns projetos pessoais, advindos de eventos, vídeos e desafios, além de projetos profissionais que contribuiem para meu estudo e prática.</h3>
+<h3 align="center">Estou me graduando em ciências da computação, sou apaixonado por tecnologia e desenvolvimento de software. Aqui anexarei alguns projetos pessoais, advindos de eventos, vídeos e desafios, além de projetos profissionais que contribuiem para meu estudo e prática.</h3>
 
+- Estagiei por 6 meses na Compass UOL e obtive experiência utilizando NestJS, MongoDB e outras ferramentas úteis na área de E-commerce para desenvolvimento de APIs RESTful, consumo, integração e construção de endpoints para APIs externas.
 
-- 🌱 Atualmente estou aprendendo: **C#, .NET, desenvolvimento back-end.**
-
-- 👨‍💻 Meus projetos estão disponiveis no github: [https://github.com/EduSantoss](https://github.com/EduSantoss)
+- 🌱 Atualmente estou aprendendo: **C#, .NET, docker, CSS, desenvolvimento back-end.**
 
 - 📫 Email para contato: **edukadudu18@gmail.com**
 
-- ⚡ Curiosidades: **Meus hobbies são jogar e ser fisiculturista 😂**
+- 👨‍💻 Meus projetos abertos estão disponiveis aqui mesmo, no github: [https://github.com/EduSantoss](https://github.com/EduSantoss)
+
+- ⚡ Curiosidades: **Meus hobbies são jogar e treinar pesado 😂**
 
 ## Conecte-se Comigo
 
